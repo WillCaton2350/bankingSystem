@@ -1,5 +1,5 @@
 # Banking-System
-Python project that outputs calculated data to the terminal. (Written in Python)
+Python project that outputs calculated data to the terminal. (Written in Python3)
 
 I created the first level of authentication (Username and Password) with conditional statements nested in a while-loop.
 
